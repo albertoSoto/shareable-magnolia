@@ -1,0 +1,3 @@
+renderType: freemarker
+templateScript: /shareable-component/templates/components/shareable.ftl
+dialog: shareable-component:components/shareable
