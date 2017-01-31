@@ -1,19 +1,19 @@
-# Shareable (Demonstrates how to share light modules)- Component template for Magnolia CMS #
+# Shareable (Demonstrates how to share light modules)- Component template for Magnolia CMS
 
-<A basic description in one sentence.>
+[Provide a basic description in one sentence.]
 
 ## Features ##
-<A list of the key features.>
+[Provide a list of the key features.]
 
 ![Demo page with component](README-shareable.png)
 
 ![Component Dialog](README-shareable-dialog.png)
 
 ## Usage ##
-<Any specific usage instructions.>
+[Provide any specific usage instructions.]
 
-### Demo ###
-<How to view the demo.>
+## Demo ##
+[Provide how to view the demo.]
 To see a page demonstrating this component, open the Pages app in Magnolia AdminCentral and import the file in 'dev/importsSamples'. (Import it directly at the root of the tree to see a demo of the included css styling.)
 
 ## Information on Magnolia CMS
