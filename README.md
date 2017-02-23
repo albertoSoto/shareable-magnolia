@@ -10,8 +10,10 @@
 ![Component Dialog](_dev/README-shareable-dialog.png)
 
 ## Usage
-> [Provide details about how a developer can make the component template available to content authors. This can include any special instructions about webresources or availability. This could include instructions on 3rd party dependencies such as jquery.
+> [Provide details on how a developer can make the component template available to content authors. This can include any special instructions about webresources or availability. This could include instructions on 3rd party dependencies such as jquery.
 Describe how a template can be configured with parameters if applicable.]
+
+Add this component to the `availableComponents` of an area to allow an author to add it. (To make this component available on the mtk basic page, you could use the decoration included in `_dev/decorations`.)
 
 ## Demo
 > [Provide how to view any included demonstration pages.]
