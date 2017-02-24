@@ -93,7 +93,7 @@
         <sv:value>00fefa9d-92c6-47e1-a900-bfebde30b2c4</sv:value>
       </sv:property>
       <sv:property sv:name="editHTML" sv:type="String">
-        <sv:value>&lt;link href=".resources/shareable-component/webresources/css/shareable-component.css" rel="stylesheet"&gt;</sv:value>
+        <sv:value>&lt;link href=".resources/shareable-component/webresources/shareable-component.css" rel="stylesheet"&gt;</sv:value>
       </sv:property>
       <sv:property sv:name="jcr:createdBy" sv:type="String">
         <sv:value>admin</sv:value>

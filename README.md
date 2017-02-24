@@ -3,7 +3,7 @@
 > [Provide a basic description in one sentence.]
 
 ## Features
-> [Provide a list of the key features this component provides for content authors.]
+> [Provide a list of the key features this component provides for content authors. Include screenshots of the rendered component and the dialog.]
 
 ![Demo page with component](_dev/README-shareable.png)
 
@@ -21,21 +21,24 @@ Add this component to the `availableComponents` of an area to allow an author to
 To see a page demonstrating this component, open the Pages app in Magnolia AdminCentral and import the files in `_dev/demos`. (Import it directly at the root of the tree to see an example of the included css styling.)
 
 ## Information on Magnolia CMS
-
 This directory is a Magnolia 'light module'.
 
 https://docs.magnolia-cms.com
+
+Search the docs for `sharing light modules` for details on how to share and use light modules on npm and github.
 
 
 ## Contribute to the Magnolia component ecosystem
 It's easy to create components for Magnolia and share them on github and npm. I invite you to do so and join the community. Let's stop wasting time by developing the same thing again and again, rather let's help each other out by sharing our work and create a rich library of components.
 
-Just add magnolia-light-module as keywords to npm's package.json to make them easy to find and use on npm.
+Just add `magnolia-light-module` and `magnolia-component` as keywords to npm's package.json to make them easy to find and use on npm.
 
 ## License
 
 MIT
 
 ## Contributors
+
+Magnolia, https://magnolia-cms.com
 
 Christopher Zimmermann, @topherzee
