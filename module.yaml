@@ -1,5 +1,5 @@
-version: 1.0.1
-displayName: Shareable Component
+version: 1.0.2
+displayName: Shareable
 dependencies:
   core:
     version: 5.4.7/*

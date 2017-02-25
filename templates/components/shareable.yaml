@@ -1,3 +1,3 @@
 renderType: freemarker
-templateScript: /shareable-component/templates/components/shareable.ftl
-dialog: shareable-component:components/shareable
+templateScript: /shareable-magnolia/templates/components/shareable.ftl
+dialog: shareable-magnolia:components/shareable

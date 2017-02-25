@@ -1,10 +1,10 @@
 {
-  "name": "shareable-component",
-  "version": "1.0.1",
-  "description": "Shareable (Demonstrates how to share light modules)- Component template for Magnolia CMS",
+  "name": "shareable-magnolia",
+  "version": "1.0.2",
+  "description": "Shareable - Component template for Magnolia CMS  (Demonstrates how to share light modules)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/magnolia-cms/shareable-component.git"
+    "url": "git+https://github.com/magnolia-cms/shareable-magnolia.git"
   },
   "keywords": [
     "magnolia-light-module",
@@ -15,7 +15,7 @@
     "Christopher Zimmermann, @topherzee"
     ],  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/magnolia-cms/shareable-component/issues"
+    "url": "https://github.com/magnolia-cms/shareable-magnolia/issues"
   },
-  "homepage": "https://github.com/magnolia-cms/shareable-component#readme"
+  "homepage": "https://github.com/magnolia-cms/shareable-magnolia#readme"
 }
